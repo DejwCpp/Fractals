@@ -1,0 +1,16 @@
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\bin\Debug\net7.0-windows\fractal-triangle.exe
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\bin\Debug\net7.0-windows\fractal-triangle.deps.json
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\bin\Debug\net7.0-windows\fractal-triangle.runtimeconfig.json
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\bin\Debug\net7.0-windows\fractal-triangle.dll
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\bin\Debug\net7.0-windows\fractal-triangle.pdb
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\obj\Debug\net7.0-windows\fractal_triangle.Form1.resources
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\obj\Debug\net7.0-windows\fractal-triangle.csproj.GenerateResource.cache
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\obj\Debug\net7.0-windows\fractal-triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\obj\Debug\net7.0-windows\fractal-triangle.AssemblyInfoInputs.cache
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\obj\Debug\net7.0-windows\fractal-triangle.AssemblyInfo.cs
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\obj\Debug\net7.0-windows\fractal-triangle.csproj.CoreCompileInputs.cache
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\obj\Debug\net7.0-windows\fractal-triangle.dll
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\obj\Debug\net7.0-windows\refint\fractal-triangle.dll
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\obj\Debug\net7.0-windows\fractal-triangle.pdb
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\obj\Debug\net7.0-windows\fractal-triangle.genruntimeconfig.cache
+C:\Users\48733\Desktop\forms\fractal-triangle\fractal-triangle\obj\Debug\net7.0-windows\ref\fractal-triangle.dll
