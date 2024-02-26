@@ -7,7 +7,7 @@
 
 ## what it looks like:
 
-![Something is wrong](https://github.com/DejwCpp/Sierpinski-triangle/blob/master/img/triangle-5.jpg)
+![Something is wrong](https://github.com/DejwCpp/Sierpinski-triangle/blob/main/img/triangle-5.jpg)
 
 ## Future modifications:
 
