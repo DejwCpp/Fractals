@@ -18,16 +18,16 @@ namespace fractal_triangle
 
             if (GlobalOption == "triangle")
             {
-                Point point1 = new Point(420, 120);
-                Point point2 = new Point(50, 820);
-                Point point3 = new Point(750, 820);
+                Point point1 = new Point(390, 130);
+                Point point2 = new Point(20, 870);
+                Point point3 = new Point(760, 870);
 
                 CreateTriangle(sender, e, point1, point2, point3, depth);
             }
             if (GlobalOption == "carpet")
             {
-                Point topLeft = new Point(10, 120);
-                Point bottomRight = new Point(750, 860);
+                Point topLeft = new Point(20, 130);
+                Point bottomRight = new Point(760, 870);
 
                 CreateCarpet(sender, e, topLeft, bottomRight, depth);
             }

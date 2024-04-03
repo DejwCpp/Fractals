@@ -42,7 +42,7 @@ namespace fractal_triangle
             // btnPlus
             // 
             btnPlus.Font = new Font("Segoe UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
-            btnPlus.Location = new Point(725, 9);
+            btnPlus.Location = new Point(720, 9);
             btnPlus.Margin = new Padding(0);
             btnPlus.Name = "btnPlus";
             btnPlus.Size = new Size(50, 50);
@@ -54,7 +54,7 @@ namespace fractal_triangle
             // btnMinus
             // 
             btnMinus.Font = new Font("Segoe UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
-            btnMinus.Location = new Point(725, 59);
+            btnMinus.Location = new Point(720, 59);
             btnMinus.Margin = new Padding(0);
             btnMinus.Name = "btnMinus";
             btnMinus.Size = new Size(50, 50);
@@ -67,7 +67,7 @@ namespace fractal_triangle
             // 
             labelActualDeepth.AutoSize = true;
             labelActualDeepth.Font = new Font("Segoe UI", 36F, FontStyle.Regular, GraphicsUnit.Point);
-            labelActualDeepth.Location = new Point(672, 27);
+            labelActualDeepth.Location = new Point(667, 27);
             labelActualDeepth.Name = "labelActualDeepth";
             labelActualDeepth.Size = new Size(50, 65);
             labelActualDeepth.TabIndex = 2;
@@ -100,7 +100,7 @@ namespace fractal_triangle
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(784, 861);
+            ClientSize = new Size(779, 886);
             Controls.Add(btnCarpet);
             Controls.Add(btnTriangle);
             Controls.Add(labelActualDeepth);

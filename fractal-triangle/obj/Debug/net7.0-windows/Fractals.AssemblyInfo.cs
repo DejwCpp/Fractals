@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fractals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8b9d03fa6b32f49be993e14cf748e30b66fdbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd3801be16adba5f6c83a72ea2078a40d317684f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fractals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fractals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
